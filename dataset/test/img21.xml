@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labeled_images</folder>
+	<filename>img21.png</filename>
+	<path>/mnt/files/tfod/labeled_images/img21.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>139</ymin>
+			<xmax>271</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>
